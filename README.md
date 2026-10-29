@@ -2,7 +2,7 @@
 
 Interactive credit-risk dashboard for an 80,000-loan portfolio (simulated data, amounts in INR crore).
 
-**Live demo:** https://YOUR-PROJECT.vercel.app
+**Live demo:** https://banking-credit-risk-dashboard.vercel.app/
 
 ## Features
 - 7 KPIs: loans, exposure, NPA rate, expected loss, EL %, average PD, early delinquency
