@@ -12,10 +12,24 @@ Interactive credit-risk dashboard for an 80,000-loan portfolio (simulated data, 
 - Export the current view as CSV
 
 ## Screenshots
-| Overview | Risk analysis | Segments |
-|---|---|---|
-| ![](screenshots/01_Overview_KPIs_Exposure.png) | ![](screenshots/03_Risk_Delinquency_Score.png) | ![](screenshots/05_Segments_Heatmap.png) |
-| ![](screenshots/02_Overview_Grade_Vintage.png) | ![](screenshots/04_Risk_Regional.png) | ![](screenshots/06_Segments_TopRisks.png) |
+
+### 1. Overview — KPIs and Exposure
+![Overview KPIs](./01_Overview_KPIs_Exposure.png)
+
+### 2. Overview — Grade and Vintage
+![Grade and Vintage](./02_Overview_Grade_Vintage.png)
+
+### 3. Risk — Delinquency and Score
+![Risk Delinquency](./03_Risk_Delinquency_Score.png)
+
+### 4. Risk — Regional Analysis
+![Regional Risk](./04_Risk_Regional.png)
+
+### 5. Segments — Heatmap
+![Segments Heatmap](./05_Segments_Heatmap.png)
+
+### 6. Segments — Top Risks
+![Segments Top Risks](./06_Segments_TopRisks.png)
 
 ## Files
 - `index.html` the dashboard (single file, Chart.js from CDN)
